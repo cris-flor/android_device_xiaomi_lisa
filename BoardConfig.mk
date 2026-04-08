@@ -13,7 +13,7 @@ TARGET_BOOTLOADER_BOARD_NAME := lisa
 
 # Kernel
 TARGET_KERNEL_CONFIG += vendor/lisa_QGKI.config
-TARGET_KERNEL_SOURCE := kernel/xiaomi/sm8350
+TARGET_KERNEL_SOURCE := kernel/xiaomi/lisa
 TARGET_KERNEL_VERSION := 5.4
 
 # Kernel modules
